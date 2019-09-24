@@ -9,6 +9,8 @@ exp = a**b
 flo = a//b
 cuberoot = a**(1/3)
 squareroot = a**(1/2)
+bcuberoot = b**(1/3)
+bsquareroot = a**(1/2)
 print (add)
 print (sub)
 print (mul)
@@ -18,3 +20,7 @@ print (exp)
 print (flo)
 print (cuberoot)
 print (squareroot)
+print (bcuberoot)
+print (bsquareroot)
+
+
